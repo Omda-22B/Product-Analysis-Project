@@ -35,3 +35,8 @@ Extract Month and Year from the sale date
 Using a CTE helped simplify the query structure and enabled further calculations.
 
 Finally, I calculated the discount-adjusted revenue by joining the CTE with discount_data based on both Discount Band and Month, then applying the discount formula to the original revenue.
+
+
+### 📸 Query Result Screenshot:
+
+![Sql Query.png](Sql Query.png)
