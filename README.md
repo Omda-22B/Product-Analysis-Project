@@ -39,4 +39,4 @@ Finally, I calculated the discount-adjusted revenue by joining the CTE with disc
 
 ### 📸 Query Result Screenshot:
 
-![Sql Query.png](Sql Query.png)
+![Sql_Query.pngg](Sql_Query.png)
