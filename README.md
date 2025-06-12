@@ -40,3 +40,14 @@ Finally, I calculated the discount-adjusted revenue by joining the CTE with disc
 ### 📸 Query Result Screenshot:
 
 ![Sql_Query.pngg](Sql_Query.png)
+
+
+📊 Data Loading (Power BI)
+After preparing the data in SQL Server, I connected Power BI to the database using DirectQuery mode.
+
+This approach ensures real-time data interaction with the SQL database, enabling any updates in the SQL Server to reflect immediately in Power BI reports without the need for manual refresh.
+
+Power_BI_Connection.png
+
+![Power_BI_Connection.png](Power_BI_Connection.png)
+
